@@ -1,0 +1,43 @@
+_repo: Essays_1434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meynell, Alice
+    aliases:
+    - Meynell, Alice Christiana Thompson
+    - Thompson, A. C. (Alice Christiana)
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '546'
+    url: http://www.gutenberg.org/2009/agents/546
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Meynell
+description: ''
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1434'
+language: en
+publication_note: '[S.l.] :  Burns & Oates,  1914'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'WINDS AND WATERS: Ceres'' Runaway -- Wells -- Rain -- The Tow Path
+  -- The Tethered Constellations -- Rushes and Reeds -- IN A BOOK ROOM: A Northern
+  Fancy -- Pathos -- Anima Pellegrina! -- A Point of Biography -- The Honours of Mortality
+  -- Composure -- The Little Language -- A Counterchange -- Harlequin Mercutio --
+  COMMENTARIES: Laughter -- The Rhythm of Life -- Domus Angusta -- Innocence and Experience
+  -- The Hours of Sleep -- Solitude -- Decivilized -- WAYFARING: The Spirit of Place
+  -- Popular Burlesque -- Have Patience, Little Saint -- At Monastery Gates -- The
+  Sea Wall -- ARTS: Tithonus -- Symmetry and Incident -- The Plaid -- The Flower --
+  Unstable Equilibrium -- Victorian Caricature -- The Point of Honour -- THE CHEARFUL
+  LADIE OF THE LIGHT: The Colour of Life -- The Horizon -- In July -- Cloud -- Shadows
+  -- WOMEN AND BOOKS: The Seventeenth Century -- Mrs. Dingley -- Prue -- Mrs. Johnson
+  -- Madame Roland -- THE DARLING YOUNG: Fellow Travellers with a Bird -- The Child
+  of Tumult -- The Child of Subsiding Tumult -- The Unready -- That Pretty Person
+  -- Under the Early Stars -- The Illusion of Historic Time.'
+title: Essays
+url: http://www.gutenberg.org/ebooks/1434
